@@ -1,7 +1,6 @@
 # Building a website with Node.js and Express
 
-This repository follows on from the course: 'Building a Website with Node.js Node.js' by Daniel Khan on [LinkedIn Learning]
-It uses NodeJs and Express to create a web app using EJS templatesl
+This application uses NodeJs and Express to create a web app using EJS templates.
 
 ## Setting up the project
 
